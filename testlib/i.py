@@ -1,0 +1,2 @@
+def i():
+    print "[+]i"
